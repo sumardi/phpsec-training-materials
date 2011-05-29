@@ -11,7 +11,7 @@
  * the GNU General Public License as published by the Free Software Foundation; either version 2 
  * of the License, or (at your option) any later version.
  * 
- * You should have received a copy of the GNU General Public License along with Mahua Framework. 
+ * You should have received a copy of the GNU General Public License along with this application. 
  * If not, see <http://www.gnu.org/licenses/>
  *
  * WARNING: This application contains multiple vulnerabilities. DO NOT use for your production site.

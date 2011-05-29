@@ -30,145 +30,145 @@
 		<array>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/admin.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/admin.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/book_page.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/book_page.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/change_password.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/change_password.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/dashboard.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/dashboard.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/dbconnect.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/dbconnect.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/featured.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/featured.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/footer.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/footer.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/header.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/header.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/index.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/index.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/info.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/info.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/login.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/login.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/logout.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/logout.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/manage_books.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/manage_books.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/manage_customers.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/manage_customers.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/member.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/member.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/new_book.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/new_book.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/profile.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/profile.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/register.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/register.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/remove_book.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/remove_book.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/remove_customer.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/remove_customer.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/save_review.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/save_review.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/update_book.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/update_book.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/update_customer.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/update_customer.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/bookstore_sample/update_profile.php</string>
+				<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/phpsec/bookstore_sample/update_profile.php</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
